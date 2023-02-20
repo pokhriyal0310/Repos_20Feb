@@ -1,1 +1,2 @@
-This is my second file to see another option of the add command. changes to be made.change1
+This is my second file to see another option of the add command. changes to be made.
+editing is done in this file to check for push and pull command.
