@@ -1,1 +1,3 @@
-Tjis is my First file in Git
+This is my First file in Git.
+Now let us add a new second line in this firstfile
+This is to see what happens when we make changes in a file that is committed.
